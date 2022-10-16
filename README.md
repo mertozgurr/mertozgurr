@@ -1,4 +1,4 @@
-![MasterHead](https://carleton.ca/auto/wp-content/uploads/big-data.jpg)
+![MasterHead](https://media.istockphoto.com/vectors/front-end-development-minimal-infographic-banner-vector-vector-id1263892968)
 <h1 align="center">Hi 👋,  I'm Mert Ozgur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
