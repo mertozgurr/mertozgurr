@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFPNbbuOfw/SN1_2McVdpRWLI3-R94qrQ/view?utm_content=DAFPNbbuOfw&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
 <h1 align="center">Hi 👋,  I'm Mert Ozgur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
